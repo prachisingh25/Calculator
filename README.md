@@ -6,15 +6,15 @@ This documentation provides an overview of the Cash Drawer Device API, a RestAPI
 
 - [Problem Statement](#problem-statement)
 - [Current State](#current-state)
-- [Solution and Architecture](https://github.com/prachisingh25/Calculator/edit/main/README.md#solution-and-architecture)
-- [TechStack](#techstack)
+- [Solution and Architecture](#solution-and-architecture)
+- [Techstack](#techstack)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Testing](#testing)
 - [Monitoring and Tracing](#monitoring-and-tracing)
-
+  
 # Problem Statement
 
 The Cash Drawer Device API is developed to add JavaPOS support to an existing application. It enables users to integrate cashdrawer functionality into their applications seamlessly. The API is built using Micronaut, a lightweight framework designed for microservices and serverless applications. RXJava is utilized to handle asynchronous operations efficiently.
